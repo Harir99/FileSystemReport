@@ -1,8 +1,3 @@
----------------------
-ASSIGNMENT #1: Writing a Shell
-AUTHOR'S NAME: Harir Al-Rubaye
-STUDENT ID NUMBER: 1108085
-----------------------
 
 HOW TO COMPILE 
 ---------------------
